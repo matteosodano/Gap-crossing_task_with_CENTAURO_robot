@@ -1,2 +1,4 @@
 # Gap-crossing_task_with_CENTAURO_robot
-Master Thesis concerning the planning of a gap-crossing task with the CENTAURO robot through sampling-based methods and nonlinear optimization. Then, whole-body motion are generated with a hierarchical inverse kinematics scheme in order to make the robot execute the plan.
+In this repository, the code developed for the project *Gap-crossing task with the CENTAURO robot* is published. Two folders are present:
+1. Planner: contains the implementation of the planning part;
+2. Whole-body: contains the implementation of the necessary parts for generating whole-body motions.
