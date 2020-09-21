@@ -36,10 +36,10 @@
 #define LONG_STEP_DIST 	sqrt(pow(L, 2) + pow(LONG_STEP, 2))
 
 //Rotations
-#define CW_AROUND_R  	0 //cloak-wise rotation around right foot of DELTA_ROT
-#define CCW_AROUND_R 	1 //countercloak-wise rotation around right foot of DELTA_ROT
-#define CW_AROUND_L  	2 //cloak-wise rotation around left foot of DELTA_ROT
-#define CCW_AROUND_L 	3 //countercloak-wise rotation around left foot of DELTA_ROT
+#define CW_AROUND_R  	0 //clockwise rotation around right foot of DELTA_ROT
+#define CCW_AROUND_R 	1 //counter-clockwise rotation around right foot of DELTA_ROT
+#define CW_AROUND_L  	2 //clockwise rotation around left foot of DELTA_ROT
+#define CCW_AROUND_L 	3 //counter-clockwise rotation around left foot of DELTA_ROT
 //Short steps
 #define SH_FW_R 		4 //short forward step with right foot of SHORT_STEP
 #define SH_BW_R 		5 //short backward step with right foot of SHORT_STEP
