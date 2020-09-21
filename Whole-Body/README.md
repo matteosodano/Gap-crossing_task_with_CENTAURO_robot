@@ -1,1 +1,1 @@
-# Whole-Body Motion generation and control
+## Whole-Body Motion generation and control
