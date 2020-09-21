@@ -1,1 +1,2 @@
 ## CoM Trajectory
+A Direct Multiple Shooting optimal control problem is set up in order to plan the movement that the CoM of the robot must execute when steps should be taken. The optimal control problem tries to minimize the CoM velocity and the contact forces, and to approach a certain desired CoM position. Some constraints (single rigid body dynamics, friction pyramids) are also imposed. The problem is implemented and solved in CasADi for Python.
